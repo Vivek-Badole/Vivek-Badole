@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vivek Badole</h1>
 <p align="center">I have always loved to work with technology.Technology is the one thing which will not stop progressing and it never ceases to amaze me and I always wanted to learn something new through technology.
-Currently I am learning Full Stack Web Development at MASAI.I started my journey at Masai in November 2021.I have learnt so many new things like how to create websites and I still have to learn a lot till my journey ends.
+I have completed my Full Stack Web Development from MASAI.I started my journey at Masai in November 2021.I have learnt so many new things like how to create websites and how to handle backend,how to connect frontend with backend and so on.
 Observant and detail-oriented aspiring Full-Stack Web Developer with a specialization in MERN stack. Self-motivated and curious, with a keen interest in building user-centric products. Looking forward to honing my skills in a challenging work environment.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-badole&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-badole" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **DSA,React,JavaScript**
+- 💬 Ask me about **DSA,React,Redux,HTML,CSS,JavaScript,Node,Express,MongoDB**
 
 - 📫 How to reach me **vivekbadole62@gmail.com**
 
