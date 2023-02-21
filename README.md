@@ -23,5 +23,3 @@ Observant and detail-oriented aspiring Full-Stack Web Developer with a specializ
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek-badole&show_icons=true&locale=en&layout=compact" alt="vivek-badole" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek-badole&show_icons=true&locale=en" alt="vivek-badole" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-badole&" alt="vivek-badole" /></p>
